@@ -1,0 +1,21 @@
+h2 {
+    color: rgb(121, 30, 30);
+}
+
+ul {
+    color:rgb(121, 30, 30);
+}
+
+.one {
+    float: right;
+    margin-top: -262px;
+    padding-right: 360px;
+}
+
+.two {
+    width: 24%;
+}
+
+body{
+    font-size: large;
+}
